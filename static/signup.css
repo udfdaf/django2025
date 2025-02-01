@@ -1,0 +1,24 @@
+form {
+  max-width: 300px;
+  margin: auto;
+}
+
+form p {
+  margin-bottom: 10px;
+}
+
+form input {
+  width: 100%;
+  padding: 8px;
+  margin: 5px 0;
+  box-sizing: border-box;
+}
+
+form button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
